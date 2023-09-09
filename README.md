@@ -1,7 +1,7 @@
 # Finetune a pretrained Language Model
 
 ## Background
-This program accompanied a presentation given as part of the requirements for the Master program (2023) in Computer Science at the [Frankfurt University of Applied Sciences](https://www.frankfurt-university.de/en/about-us/faculty-2-computer-science-and-engineering/welcome-to-faculty-2/) in Frankfurt. It only serves demonstration purposes.
+A demo of this code was presented in a Talk (Subject: [Transformer applications in NLP](https://drive.google.com/file/d/1qWeUYxp6vRbCYqoweu__YjGiu7FDypbY/view?usp=drive_link)) as part of the requirements for the Master program (2023) in Computer Science at the [Frankfurt University of Applied Sciences](https://www.frankfurt-university.de/en/about-us/faculty-2-computer-science-and-engineering/welcome-to-faculty-2/) in Frankfurt. It only serves demonstration purposes.
 
 ## General Info
 The program shows how to download a pretrained language model from [huggingface](https://huggingface.co/) and finetune it according to your topic domain and needs.  
